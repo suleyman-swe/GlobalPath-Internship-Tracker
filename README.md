@@ -30,7 +30,7 @@
 
 > The diagram below is an **SVG image**, so it renders directly in the GitHub README without needing to open another file.
 
-![StudentPath UML Class Diagram](./docs/class-diagram.svg)
+![StudentPath UML Class Diagram](docs/class-diagram.png)
 
 **Legend:** Hollow triangle = inheritance; filled diamond = composition; hollow diamond = aggregation; ordinary arrow = association; dashed arrow = enum dependency.
 
